@@ -14,11 +14,4 @@ python main.py test
 ## Citation
 If you use our code please cite:
 
-@inproceedings{chen2021cross,
-  title={Cross-Domain Recaptured Document Detection with Texture and Reflectance Characteristics},
-  author={Yan, Jiabin and Chen, Changsheng},
-  booktitle={2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA)},
-  pages={1--4},
-  year={2021},
-  organization={IEEE}
-}
+Jiabin Yan, Changsheng Chen, "Cross-Domain Recaptured Document Detection with Texture and Reflectance Characteristics", 2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA), IEEE
