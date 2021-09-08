@@ -14,4 +14,4 @@ python main.py test
 ## Citation
 If you use our code please cite:
 
-Jiabin Yan, Changsheng Chen, "Cross-Domain Recaptured Document Detection with Texture and Reflectance Characteristics", 2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA), IEEE
+Jiabin Yan and Changsheng Chen, "Cross-Domain Recaptured Document Detection with Texture and Reflectance Characteristics", 2021 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA), IEEE
