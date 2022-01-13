@@ -1,6 +1,6 @@
 # Cross-Domain Recaptured Document Detection with Texture and Reflectance Characteristics
 ## OverView
-This is the implementation of the method proposed in "Cross-Domain Recaptured Document Detection with Texture and Reflectance Characteristics" with pytorch(1.2.0, gpu version). 
+This is the implementation of the method proposed in "Cross-Domain Recaptured Document Detection with Texture and Reflectance Characteristics" with pytorch(1.2.0, gpu version). The associated datasets are available upon request.
 ## Files structure
 * models
 * utils
